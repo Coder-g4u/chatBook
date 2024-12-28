@@ -1,28 +1,28 @@
 🚀 A Modern Messaging Platform for Seamless Communication
 
-📌 Overview
+📌 **Overview**
 The Real-Time Chat App is a sleek, user-friendly messaging platform designed for instant, reliable, and secure communication. Built with cutting-edge technologies, this application brings real-time interactions to life, ensuring a seamless experience for users.
 
-✨ Features
+✨ **Features**
 📡 Real-Time Messaging: Chat with friends and colleagues without any delay, thanks to WebSocket-powered communication.
 🔐 Secure Conversations: Messages are securely transmitted to ensure user privacy.
 📋 Group Chats: Create and manage group conversations effortlessly.
 💬 Typing Indicators: Know when others are typing in real time.
 🕶️ User Presence Status: See who's online and active.
 🎨 Intuitive UI/UX: Minimalistic design focused on delivering a smooth user experience.
-⚙️ Tech Stack
-Frontend:
+⚙️ **Tech Stack**
+**Frontend:**
 HTML, CSS, and JavaScript for responsive and interactive interfaces.
 ReactJS (or your preferred library, if applicable).
-Backend:
+**Backend:**
 Node.js and Express for a robust server-side framework.
 WebSockets (Socket.IO) for real-time communication.
-Database:
+**Database:**
 MongoDB for efficient data storage and retrieval.
-Additional Tools:
+**Additional Tools:**
 JSON Web Tokens (JWT) for authentication.
 Cloud storage (if applicable) for file sharing.
-🚀 Getting Started
+**🚀 Getting Started**
 Follow these steps to set up the project locally:
 
 Clone the Repository:
@@ -49,7 +49,7 @@ Open your browser and navigate to http://localhost:3000.
 🌐 Multi-Language Support: Enable users to chat in their preferred language.
 📞 Voice and Video Calls: Expand communication modes.
 🔔 Custom Notifications: Personalized alerts for message updates.
-🤝 Contributing
+🤝 **Contributing**
 We welcome contributions from the community! Here's how you can contribute:
 
 Fork the repository.
